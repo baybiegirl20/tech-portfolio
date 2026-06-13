@@ -47,3 +47,11 @@ ul {
     border-top: 1px solid #334155;
     color: #cbd5e1;
 }
+
+.card {
+    background-color: #111827;
+    border: 1px solid #334155;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
